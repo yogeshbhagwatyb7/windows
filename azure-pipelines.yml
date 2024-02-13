@@ -10,7 +10,7 @@ pool:
   1test
 
 steps:
-- script: '.\yog.bat'
+- script: '.\app.bat'
   displayName: 'Run a one-line script'
 
 - script: |
