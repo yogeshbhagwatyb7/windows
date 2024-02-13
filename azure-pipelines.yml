@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  1test
+  test4
 
 steps:
 - script: 'cmd /c .\app.bat'
